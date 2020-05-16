@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_mock_agresso",
+  "version": "1.0.0",
+  "description": "node app to mock Agresso SOAP web services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzye/nodejs_mock_agresso.git"
+  },
+  "keywords": [
+    "Agresso",
+    "SOAP",
+    "mock",
+    "web",
+    "service"
+  ],
+  "author": "Ezzy Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzye/nodejs_mock_agresso/issues"
+  },
+  "homepage": "https://github.com/ezzye/nodejs_mock_agresso#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "soap": "^0.31.0"
+  }
+}
